@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ba17fa84.css",
+    "main.js": "/static/js/main.bb8363ec.js",
+    "static/media/wallet.png": "/static/media/wallet.6c0ac930cf85ee73b331.png",
+    "static/media/mainImg.png": "/static/media/mainImg.e739c0f631d6cdc1e145.png",
+    "static/media/1.png": "/static/media/1.6ba29f275eae5358530a.png",
+    "static/media/3.png": "/static/media/3.b7769c41c2ebce33614c.png",
+    "static/media/invested.png": "/static/media/invested.883e7ab8c969c49d82b2.png",
+    "static/media/2.png": "/static/media/2.794eccb53075404720e2.png",
+    "static/media/RumikoClearDemo-Regular.otf": "/static/media/RumikoClearDemo-Regular.f8967220a580e82393cb.otf",
+    "index.html": "/index.html",
+    "static/media/burger.svg": "/static/media/burger.bcddb7ba5f00b392fdc3d883ead76632.svg",
+    "main.ba17fa84.css.map": "/static/css/main.ba17fa84.css.map",
+    "main.bb8363ec.js.map": "/static/js/main.bb8363ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba17fa84.css",
+    "static/js/main.bb8363ec.js"
+  ]
+}
